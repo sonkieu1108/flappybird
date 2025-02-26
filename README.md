@@ -99,9 +99,7 @@ Hãy thử thay đổi các giá trị này và xem trò chơi thay đổi như 
 *   **Thêm các chế độ chơi khác nhau**: Ví dụ: chế độ chơi khó hơn với tốc độ ống tăng dần, hoặc chế độ chơi "endless" không có màn hình Game Over.
 *   **Bảng xếp hạng trực tuyến (nâng cao)**: Nếu muốn thử thách hơn, bạn có thể tìm cách kết nối ESP32 với internet và tạo bảng xếp hạng điểm số trực tuyến.
 
-## License
 
-Dự án này được phát hành theo giấy phép [MIT License](LICENSE). Bạn có thể tự do sử dụng, sửa đổi và phân phối lại code này cho mục đích cá nhân hoặc thương mại. Vui lòng xem file `LICENSE` để biết thêm chi tiết.
 
 ## Tác giả
 
